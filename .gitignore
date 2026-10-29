@@ -1,0 +1,12 @@
+dist/
+node_modules/
+.vercel/
+.openai/cache/
+*.tar.gz
+# Keep the original video tracked: the production build verifies its checksum.
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/

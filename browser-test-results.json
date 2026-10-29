@@ -1,0 +1,234 @@
+[
+  [
+    "Homepage loads",
+    true
+  ],
+  [
+    "Standalone video player removed",
+    true
+  ],
+  [
+    "Five-image ocean gallery renders",
+    true
+  ],
+  [
+    "Background hero video is set to loop",
+    true
+  ],
+  [
+    "New user images render in gallery",
+    true
+  ],
+  [
+    "Next photo carousel button changes slide",
+    true
+  ],
+  [
+    "Gallery images load without broken references",
+    true
+  ],
+  [
+    "Demo loads reporting form",
+    true
+  ],
+  [
+    "Report step two",
+    true
+  ],
+  [
+    "Report confirmation step",
+    true
+  ],
+  [
+    "Report submit navigates success",
+    true
+  ],
+  [
+    "Case ID created",
+    true
+  ],
+  [
+    "New passport appears",
+    true
+  ],
+  [
+    "Public hides location note",
+    true
+  ],
+  [
+    "Review detail opened",
+    true
+  ],
+  [
+    "Reviewer sees internal note",
+    true
+  ],
+  [
+    "Verified review decision saved",
+    true
+  ],
+  [
+    "Response page selected correct case",
+    true
+  ],
+  [
+    "Coordinator assignment saved",
+    true
+  ],
+  [
+    "Task starts",
+    true
+  ],
+  [
+    "Follow-up photo preview loads",
+    true
+  ],
+  [
+    "Follow-up recorded",
+    true
+  ],
+  [
+    "Closure recorded",
+    true
+  ],
+  [
+    "Follow-up evidence appears in passport",
+    true
+  ],
+  [
+    "Chronological record synchronized",
+    true
+  ],
+  [
+    "Insights reflect 11 cases",
+    true
+  ],
+  [
+    "Public print excludes internal notes",
+    true
+  ],
+  [
+    "Persistence to storage",
+    true
+  ],
+  [
+    "Reset replaces demo case",
+    true
+  ],
+  [
+    "No uncaught JS errors",
+    true
+  ],
+  [
+    "Desktop navigation has language selector",
+    true
+  ],
+  [
+    "Malay home navigation renders",
+    true
+  ],
+  [
+    "Malay hero renders",
+    true
+  ],
+  [
+    "Document language is Malay",
+    true
+  ],
+  [
+    "Language saved to local storage",
+    true
+  ],
+  [
+    "Report form is translated",
+    true
+  ],
+  [
+    "Step 2 translated",
+    true
+  ],
+  [
+    "Translated zone option retains canonical value",
+    true
+  ],
+  [
+    "Malay safety acknowledgment",
+    true
+  ],
+  [
+    "Malay report submission still works",
+    true
+  ],
+  [
+    "Malay confirmation renders",
+    true
+  ],
+  [
+    "Malay passport status translation",
+    true
+  ],
+  [
+    "Reporter text stays in original language",
+    true
+  ],
+  [
+    "Malay reviewer workspace",
+    true
+  ],
+  [
+    "Malay review and verification work",
+    true
+  ],
+  [
+    "Malay coordinator can assign task",
+    true
+  ],
+  [
+    "Malay follow-up can be saved",
+    true
+  ],
+  [
+    "Malay case closure works",
+    true
+  ],
+  [
+    "Malay passport shows closed case",
+    true
+  ],
+  [
+    "Malay analytics reflects case changes",
+    true
+  ],
+  [
+    "Malay public print view",
+    true
+  ],
+  [
+    "Malay mobile has no horizontal overflow",
+    true
+  ],
+  [
+    "Mobile navigation contains Malay language selector",
+    true
+  ],
+  [
+    "Switch back to English",
+    true
+  ],
+  [
+    "User case survives language changes",
+    true
+  ],
+  [
+    "No new JS errors after language switching",
+    true
+  ],
+  [
+    "Desktop no horizontal overflow",
+    true
+  ],
+  [
+    "Mobile no horizontal overflow",
+    true
+  ]
+]

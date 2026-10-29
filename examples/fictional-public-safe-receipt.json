@@ -1,0 +1,121 @@
+{
+  "id": "PG-2026-0011",
+  "createdAt": "2026-10-28T19:17:23.803Z",
+  "observedAt": "2026-10-28T19:16:00.000Z",
+  "category": "entanglement",
+  "status": "closed",
+  "publicZone": "General Snorkeling Area",
+  "observedConditions": [
+    "Fishing material nearby",
+    "Condition uncertain"
+  ],
+  "description": "During a fictional snorkeling observation, a green turtle appeared close to discarded fishing line. Potential entanglement was suspected but not confirmed. No one approached or touched the animal.",
+  "evidenceData": "",
+  "reviewDecision": "verified",
+  "disposition": "referred_to_authority",
+  "informationRequest": {
+    "question": "From a safe distance, was fishing material touching the turtle or only nearby?",
+    "askedAt": "2026-10-28T19:17:59.280Z",
+    "answeredAt": "2026-10-28T19:18:51.098Z"
+  },
+  "events": [
+    {
+      "occurredAt": "2026-10-28T19:17:23.803Z",
+      "actorRole": "reporter",
+      "title": "Observation submitted",
+      "publicSummary": "A community observation was submitted and is awaiting human review.",
+      "type": "submitted"
+    },
+    {
+      "occurredAt": "2026-10-28T19:17:44.087Z",
+      "actorRole": "reviewer",
+      "title": "Review started",
+      "publicSummary": "A reviewer began evaluating the observation.",
+      "type": "start_review"
+    },
+    {
+      "occurredAt": "2026-10-28T19:17:59.280Z",
+      "actorRole": "reviewer",
+      "title": "More information requested",
+      "publicSummary": "Additional information is needed before a verification decision.",
+      "type": "request_info"
+    },
+    {
+      "occurredAt": "2026-10-28T19:18:51.098Z",
+      "actorRole": "reporter",
+      "title": "Reporter clarification received",
+      "publicSummary": "Fictional update: fishing material was nearby; contact with the turtle was not confirmed from a safe distance.",
+      "type": "reporter_reply"
+    },
+    {
+      "occurredAt": "2026-10-28T19:19:00.133Z",
+      "actorRole": "reviewer",
+      "title": "Review started",
+      "publicSummary": "A reviewer began evaluating the observation.",
+      "type": "start_review"
+    },
+    {
+      "occurredAt": "2026-10-28T19:19:01.153Z",
+      "actorRole": "reviewer",
+      "title": "Verified for follow-up",
+      "publicSummary": "Human review determined that follow-up is appropriate; the observation is not a medical diagnosis.",
+      "type": "verify"
+    },
+    {
+      "occurredAt": "2026-10-28T19:20:02.969Z",
+      "actorRole": "coordinator",
+      "title": "Response task assigned",
+      "publicSummary": "A fictional authorized response team was assigned a follow-up task.",
+      "type": "assign_task"
+    },
+    {
+      "occurredAt": "2026-10-28T19:20:29.477Z",
+      "actorRole": "coordinator",
+      "title": "Task in progress",
+      "publicSummary": "A simulated field follow-up was started.",
+      "type": "start_task"
+    },
+    {
+      "occurredAt": "2026-10-28T19:20:30.498Z",
+      "actorRole": "coordinator",
+      "title": "Follow-up recorded",
+      "publicSummary": "A simulated follow-up was documented for review.",
+      "type": "add_follow_up"
+    },
+    {
+      "occurredAt": "2026-10-28T19:21:13.607Z",
+      "actorRole": "coordinator",
+      "title": "Case closed",
+      "publicSummary": "Documented fictional outcome: Referred to Authority (Demo).",
+      "type": "close_case"
+    }
+  ],
+  "accountability": {
+    "owner": "none",
+    "ownerLabel": "No pending action",
+    "waitingSince": null,
+    "waitingHours": 0,
+    "recordedStages": {
+      "submitted": true,
+      "reviewed": true,
+      "verified": true,
+      "assigned": true,
+      "followUp": true,
+      "closed": true
+    },
+    "consistency": {
+      "passed": true,
+      "issues": []
+    },
+    "scope": "Fictional local case workflow; waiting age is not an emergency priority or service promise."
+  },
+  "disclaimer": "Academic demonstration prototype. All cases and operational data shown are fictional. PenyuGuard is not an official wildlife emergency service. For real emergencies, contact appropriate authorities.",
+  "exportedAt": "2026-10-28T19:22:08.980Z",
+  "integrity": {
+    "algorithm": "SHA-256",
+    "canonicalization": "Recursive sorted object keys; JSON values; arrays preserve order",
+    "digest": "cd20f7e73305f207eb4d5e4bc4f7edec1d69090ce89d82dcec900a085e89f2c6",
+    "scope": "All top-level fields except integrity",
+    "note": "Detects accidental changes when the original digest is retained. This is not a digital signature, proof of identity, proof of rescue, or protection against an attacker recomputing the digest."
+  }
+}

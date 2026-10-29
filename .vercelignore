@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.git/
+.vercel/
+.openai/
+.codex/
+.agents/
+.aws/
+.env
+.env.*
+qa/
+preview-*.png
+*.tar.gz
+*.zip
+
+# The original video is required by the build's design integrity check.
+!assets/video/sea-turtle-original-qhd.mp4

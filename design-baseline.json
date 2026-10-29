@@ -1,0 +1,36 @@
+{
+  "sourceArchiveSHA256": "375dd15676d682831ac7ace393d84932de3461755a2fcd0526981bbbb4dfd088",
+  "files": {
+    "index.html": "1411f563602f2855f487220136cebb2be90404f7a4a38ffffa8cc161384a5ea6",
+    "styles.css": "c1a53b4409b56c7f5a72a4a562cfe38647de47aeda90303272d26a8bd49e0169",
+    "premium.css": "c32d3786f34b3e32570d5aa1e50e0ad5bc7ee39c4a51705b8c2df91d40ebae47",
+    "cinematic.css": "f4fcee30b8d8f6f8c30e40a1059f5077a4a69b942ba498dbd673d90dcba41cab",
+    "js/cinematic.js": "1aa270bd70900731cd5856254145909c805b12860c65d656077b2c2e3d7c664b",
+    "js/visuals.js": "f434a14815dc8a4424252a5525374207709aaf08a581649977e79844eee7abe1",
+    "js/icons.js": "b8b28c1bf1a060aa41c23b4714dd71a86149fd32203191d6b699c6ecf7ea621e",
+    "assets/favicon.svg": "42383b82580de27c5031292ba8852133da07ce87c283dd9f58bd63ce5916cea0",
+    "assets/ocean-turtle.svg": "4b9df9912ae6e01a3d9dc9a36948ac5437e36b234ac6c90218cacde00f8f9c0a",
+    "assets/reference-originals/image(20261028-162752).png": "07681cfa7ca5b3f330e5315b1d7f1293c5af2a9cccb9f805c26062f24c6c4c20",
+    "assets/reference-originals/image(20261028-162829).png": "3cf97486c501da388bbe486fdd3e5c64d0a01c6abaaa958ba99633ca401e46bf",
+    "assets/reference-originals/image(20261028-162731).png": "2da24bff4dcfa638a8bcb76b9dd99242cd8e708d53d6afdca6f9bcc34cd8f08b",
+    "assets/reference-originals/image(20261028-162832).png": "ae831635c22e1f264fde049b2124af9ab960a220b214bec63b16e63e74be2d8a",
+    "assets/reference-originals/image(20261028-162804).png": "e4279f636d62200609cf55c2a28c90760adcdddd82320e8745b65e01886f3db2",
+    "assets/photos/user-turtle-01.jpg": "a381e427fba8a1d8c0cbe477aa0a57f83435a8be9953c2a01e2036a7875fdd5e",
+    "assets/photos/underwater-reef.jpg": "e26f8a58e7866f969665595b279301cc38eeba5df88bcbe6b9187eb5b6c81be9",
+    "assets/photos/turtle-hero.jpg": "0764d1a307b8e89ded56049776b50fa6c2d7e3459aa6e0fbd8e3b75b1bf41576",
+    "assets/photos/user-turtle-04.jpg": "22a278b46da1e962dc17e00587f3b59e3bccbc9cff9752d68bc1d4aa257c6842",
+    "assets/photos/turtle-fws.jpg": "e0f402ade910b7b999f6252ceb231b90022d7907f8343eaa4ce7afc686c7bcde",
+    "assets/photos/user-turtle-05.jpg": "8a044b14e3cfe08a4d4b57ece4da6937d8666903fec863ac923d9bbd22719758",
+    "assets/photos/perhentian-beach.jpg": "e26f8a58e7866f969665595b279301cc38eeba5df88bcbe6b9187eb5b6c81be9",
+    "assets/photos/turtle-close.jpg": "b6305d769b7e85e76e3922234c98d8dbee9639b5c81bf864af9a71d5d1106289",
+    "assets/photos/user-turtle-02.jpg": "b5440a0eaeee0e029bddb7fc3f89f083b1bdabe6582ff7ee9757c052c17e66ae",
+    "assets/photos/user-turtle-03.jpg": "4b088a7c075263836e9b87027d2573ece1bb0b845bb823a016b4fc87632de803",
+    "assets/video/sea-turtle-original-qhd.mp4": "b36dc841f76eb3f852b4ebcec5fac6f354d99a7bc9f300e4dda559967322b51b",
+    "assets/video/ocean-film-poster.jpg": "7463f1f39b606f9d71e2de43ff7991692e8dfee128de91d7fc8cd5790af70061"
+  },
+  "sections": {
+    "header": "bb2ef0791e3829cdbe0773b8f58e833660a2e24a2a6191fbf45af47a5b7e6bd7",
+    "footer": "dcb506076d120986d1c5055c0ebbc9f0ef8de7c9ae16024466b215ad035ec1e9",
+    "landing": "1a493d53dd86b16a5b733d547c63cb391e14e6ec73b20175fa25719c6e57bbd9"
+  }
+}
